@@ -163,7 +163,7 @@ text-shadow: 2px 2px 0.3px transparent;
       max-width: 30rem;
 	  	font-weight: bold;
     font-size: 1.5rem;
-  -webkit-text-fill-color: #dbbe16;
+  -webkit-text-fill-color: lightgreen;
   -webkit-background-clip: text;
     -webkit-text-stroke-width: 1px black;
   -webkit-text-stroke-color: ;
@@ -181,7 +181,7 @@ text-shadow: 2px 2px 0.3px transparent;
 }
 
 .btn-primary:hover {
-  background-color: #dbbe16;
+  background-color: lightgreen;
    border-color: black;
 }
 
@@ -234,7 +234,7 @@ text-shadow: 2px 2px 0.3px transparent;
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #dbbe16;
+    border-color: lightgreen;
     border-width: .25rem;
     width: 30%;
   }
